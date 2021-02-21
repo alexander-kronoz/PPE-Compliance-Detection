@@ -1,4 +1,9 @@
-# Face Mask Type Detector
+# PPE Compliance Detection
+
+
+## Module 1:
+
+### Face Mask Type Detector
 
 
 This repository contains the code and Google Colab notebook for training a face mask type detector with [TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection). 
