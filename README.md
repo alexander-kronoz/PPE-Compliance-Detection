@@ -14,9 +14,6 @@ The model is used to detect face masks of 4 classes: homemade cloth covers, surg
 - Python 3.5
 - TensorFlow 1.10
 
-### [Notebook used for training on Google Colab](/face_mask_type_detection_ssdmobile.ipynb)
-
-
 ### Training image examples
 The images used for training are from Google and Upslashe. There are 247, 197, 184 and 255 images for each class. 
 
